@@ -1,0 +1,27 @@
+{
+  "updates": {
+    "important": false,
+    "allowDirect": true,
+    "description": {
+      "Bobomb CLI 1.0 - Первая версия": "Python CLI и TUI версия с DevTools, тестированием сервисов и фильтрацией!"
+    },
+    "onlyDirect": false,
+    "versionCode": 1
+  },
+  "experiments": [
+    {
+      "keys": [
+        {
+          "name": "verbose_logging",
+          "value": false,
+          "type": "BOOLEAN"
+        },
+        {
+          "name": "debug_mode",
+          "value": false,
+          "type": "BOOLEAN"
+        }
+      ]
+    }
+  ]
+}

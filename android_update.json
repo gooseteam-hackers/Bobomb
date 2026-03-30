@@ -1,0 +1,33 @@
+{
+  "updates": {
+    "important": false,
+    "allowDirect": true,
+    "description": {
+      "Bobomb 2.03 - Большое обновление": "✨ Сильные изменения, самое большое обновление!"
+    },
+    "directUrl": "https://github.com/gooseteam-hackers/Bobomb-Android/releases/download/203/203.apk",
+    "onlyDirect": false,
+    "versionCode": 203
+  },
+  "experiments": [
+    {
+      "keys": [
+        {
+          "name": "drip_mode_enabled",
+          "value": true,
+          "type": "BOOLEAN"
+        },
+        {
+          "name": "monospace_font",
+          "value": false,
+          "type": "BOOLEAN"
+        },
+        {
+          "name": "matrix_theme_enabled",
+          "value": false,
+          "type": "BOOLEAN"
+        }
+      ]
+    }
+  ]
+}

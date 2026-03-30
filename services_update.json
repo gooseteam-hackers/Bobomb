@@ -1,0 +1,22 @@
+{
+  "updates": {
+    "description": {
+      "Bobomb Services 30.03.2026": "📦 Отфильтрованы дубликаты (4735 → 4503 строк)!"
+    },
+    "directUrl": "https://raw.githubusercontent.com/gooseteam-hackers/Bobomb/refs/heads/static/services/main/services.bsl",
+    "releaseDate": "30-03-2026",
+    "stats": {
+      "totalLines": 4503,
+      "totalServices": 501,
+      "duplicatesRemoved": 232
+    }
+  },
+  "beta": {
+    "description": {
+      "Bobomb Beta Services": "🧪 Бета-версии новых сервисов для тестирования, обычно здесь тестируются самые новые"
+    },
+    "directUrl": "https://raw.githubusercontent.com/gooseteam-hackers/Bobomb/refs/heads/static/services/beta/services.bsl",
+    "releaseDate": "30-03-2026",
+    "warning": "⚠️ Бета сервисы могут быть нестабильны!"
+  }
+}
