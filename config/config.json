@@ -1,0 +1,17 @@
+{
+  "language": "en",
+  "theme": "matrix",
+  "default_repeats": 1,
+  "default_drip_delay": 15,
+  "timeout": 10,
+  "verbose": true,
+  "show_banner": true,
+  "monospace_font": false,
+  "auto_remove_dupes": false,
+  "save_reports": true,
+  "ssl_verify": true,
+  "skip_warnings": false,
+  "labs_unlocked": false,
+  "debug_mode": false,
+  "network_debug": false
+}
